@@ -14,6 +14,7 @@
 		135FE281238797350003DD94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 135FE280238797350003DD94 /* Assets.xcassets */; };
 		135FE284238797350003DD94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 135FE282238797350003DD94 /* LaunchScreen.storyboard */; };
 		135FE28E23879D480003DD94 /* DetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 135FE28D23879D480003DD94 /* DetailedViewController.swift */; };
+		135FE2902387A5080003DD94 /* Items.swift in Sources */ = {isa = PBXBuildFile; fileRef = 135FE28F2387A5080003DD94 /* Items.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		135FE283238797350003DD94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		135FE285238797350003DD94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		135FE28D23879D480003DD94 /* DetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedViewController.swift; sourceTree = "<group>"; };
+		135FE28F2387A5080003DD94 /* Items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Items.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				135FE27B238797320003DD94 /* ViewController.swift */,
 				135FE27D238797320003DD94 /* Main.storyboard */,
 				135FE28D23879D480003DD94 /* DetailedViewController.swift */,
+				135FE28F2387A5080003DD94 /* Items.swift */,
 				135FE280238797350003DD94 /* Assets.xcassets */,
 				135FE282238797350003DD94 /* LaunchScreen.storyboard */,
 				135FE285238797350003DD94 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				135FE27C238797320003DD94 /* ViewController.swift in Sources */,
+				135FE2902387A5080003DD94 /* Items.swift in Sources */,
 				135FE278238797320003DD94 /* AppDelegate.swift in Sources */,
 				135FE28E23879D480003DD94 /* DetailedViewController.swift in Sources */,
 				135FE27A238797320003DD94 /* SceneDelegate.swift in Sources */,
